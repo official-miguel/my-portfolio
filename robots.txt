@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://miguelmuiruri.vercel.app/sitemap.xml
+Sitemap: https://official-miguel.vercel.app/sitemap.xml
